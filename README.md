@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi welcome 👋
 
 <!--
 **hotdogking2007/hotdogking2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 - I'm using c# ,js ,ts ,rust
 - I want to use my language
+```cs
+System.Console.WriteLine("hotdog");
+```
