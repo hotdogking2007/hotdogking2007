@@ -3,7 +3,7 @@
 
 <p>I'm using c#, js, ts, rust</p>
 
-<br>
+</br>
 <p>
 ​ <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-CSharp-a300b5?style=flat&logo=csharp"/></a>
  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust"/></a> 
