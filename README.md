@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm using c#, js, ts, rust
-- I want to use my language
+<p>I'm using c#, js, ts, rust</p>
 
 
 ​<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/-CSharp-a300b5?style=flat&logo=csharp"/></a>
