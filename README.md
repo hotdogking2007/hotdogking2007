@@ -6,5 +6,5 @@
 <div>
 ​ <img src="https://img.shields.io/badge/-CSharp-a300b5?style=flat&logo=csharp">
  <img src="https://img.shields.io/badge/-Rust-141414?style=flat&logo=rust">
-​ <img src="https://img.shields.io/badge/-JavaScript-e6e600?style=flat&logo=javascript">
+​ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
